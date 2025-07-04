@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @DogeGabriel05
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning computer science on CS50/edX
-- 💞️ I’m looking to collaborate on this site, i hope people help me here
 - 📫 You can contact me with my e-mail : gabrieldesouzadeoliveira6@gmail.com
 
 <!---
